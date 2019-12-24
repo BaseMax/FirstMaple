@@ -14,7 +14,7 @@ This was explain in university:
 
 ![Maple question - project](question2.jpg)
 
-## Maple Sample
+## Maple Language for Beginners
 
 [Maple](http://www.maplesoft.com/products/maple/) is a high-level language and interactive environment for numerical computation, visualization, and programming. Using Maple, you can analyze data, develop algorithms, and create models and applications. The language, tools, and built-in math functions enable you to explore multiple approaches and reach a solution faster than with spreadsheets or traditional programming languages, such as C/C++ or Java.
 
