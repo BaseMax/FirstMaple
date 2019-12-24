@@ -57,7 +57,8 @@ result
 
 ```
 n := 5;
-sum(((product(k+j+1, j = 0 .. n-1))*x^k/((product(k-j, j = 0 .. k-1))*(product(k-j, j = k+1 .. n))))*x^k, k = 0 .. n); Sum(((Product(k+j+1, j = 0 .. n-1))*x^k/((Product(k-j, j = 0 .. k-1))*(Product(k-j, j = k+1 .. n))))*x^k, k = 0 .. n);
+sum(((product(k+j+1, j = 0 .. n-1))*x^k/((product(k-j, j = 0 .. k-1))*(product(k-j, j = k+1 .. n))))*x^k, k = 0 .. n);
+Sum(((Product(k+j+1, j = 0 .. n-1))*x^k/((Product(k-j, j = 0 .. k-1))*(Product(k-j, j = k+1 .. n))))*x^k, k = 0 .. n);
 ```
 
 ## Maple Language for Beginners
